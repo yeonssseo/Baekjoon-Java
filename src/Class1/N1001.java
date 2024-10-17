@@ -11,6 +11,6 @@ public class N1001 {
         a = scanner.nextInt();
         b = scanner.nextInt();
 
-        System.out.println(a - b);
+        System.out.println(a - b); //웅양
     }
 }
